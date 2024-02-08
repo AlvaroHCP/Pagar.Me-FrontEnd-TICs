@@ -1,0 +1,115 @@
+{
+    "Header": {
+        "TopHeader": [
+            {
+                "name": "Já sou cliente",
+                "url": "https://pagarme.helpjuice.com/",
+                "imageImported": "",
+                "imageName": "",
+                "type": "text",
+                "htmlType": "link"
+            },
+            {
+                "name": "Quero ser cliente",
+                "url": "https://pagar.me/ofertas",
+                "imageImported": "",
+                "imageName": "",
+                "type": "text",
+                "htmlType": "link"
+            }
+        ],
+        "NavBar": [
+            {
+                "name": "Soluções",
+                "url": "",
+                "imageImported": "",
+                "imageName": "",
+                "type": "text",
+                "htmlType": "dropdown",
+                "dropdown": [
+                    {
+                        "name": "Pronto para usar",
+                        "url": "https://pagar.me/pronto-para-usar"
+                    },
+                    {
+                        "name": "Integre com nossos produtos",
+                        "url": "https://pagar.me/integre-com-nossos-produtos"
+                    },
+                    {
+                        "name": "O Pagar.me",
+                        "url": "https://pagar.me/sobre"
+                    }
+                ]
+            },
+            {
+                "name": "Ofertas",
+                "url": "https://pagar.me/ofertas",
+                "imageImported": "",
+                "imageName": "",
+                "type": "text",
+                "htmlType": "link"
+            },
+            {
+                "name": "Blog",
+                "url": "https://pagar.me/blog",
+                "imageImported": "",
+                "imageName": "",
+                "type": "text",
+                "htmlType": "link"
+            },
+            {
+                "name": "Dúvidas",
+                "url": "https://pagarme.helpjuice.com",
+                "imageImported": "",
+                "imageName": "",
+                "type": "text",
+                "htmlType": "link"
+            },
+            {
+                "name": "Suporte",
+                "url": "",
+                "imageImported": "",
+                "imageName": "",
+                "type": "text",
+                "htmlType": "dropdown",
+                "dropdown": [
+                    {
+                        "name": "FAQ",
+                        "url": "https://pagarme.helpjuice.com/",
+                        "device": "mobile"
+                    },
+                    {
+                        "name": "Guias de integração",
+                        "url": "https://docs.pagar.me/page/guias-pagarme"
+                    },
+                    {
+                        "name": "Documentação",
+                        "url": "https://docs.pagar.me/"
+                    },
+                    {
+                        "name": "Boleto DDA",
+                        "url": "https://pagar.me/boletos"
+                    }
+                ]
+            }
+        ],
+        "Buttons": [
+            {
+                "name": "Entrar",
+                "url": "https://id.pagar.me",
+                "imageImported": "",
+                "imageName": "",
+                "type": "text",
+                "htmlType": "link"
+            },
+            {
+                "name": "Cadastrar agora",
+                "url": "https://pagar.me/ofertas",
+                "imageImported": "",
+                "imageName": "",
+                "type": "text",
+                "htmlType": "button"
+            }
+        ]
+    }
+}

@@ -1,0 +1,254 @@
+{ 
+  "mainFooter": {
+    "socialMediaSection": {
+      "pagarIcon":{
+        "href": "https://pagar.me/",
+        "image": {
+          "alt":"Logo Pagar.me",
+          "path": "/assets/images/figmaPagarMe.svg",
+          "width": 163,
+          "height": 44,
+          "priority": true
+      }
+      },
+      "socialIcons": [
+        {
+          "href": "https://www.facebook.com/pagar.me",
+          "target":"_blank",
+          "image": {
+            "alt":"Facebook Pagarme",
+            "path": "/assets/images/icons/figmaFacebook.svg",
+            "width": 19,
+            "height": 19
+            
+          }
+        },
+        {
+          "href": "https://github.com/pagarme",
+          "target":"_blank",
+          "image": {
+            "alt":"Github Pagarme",
+            "path": "/assets/images/icons/figmaGithub.svg",
+            "width": 19,
+            "height": 19
+            
+          }
+        },
+        {
+          "href": "https://www.linkedin.com/company/pagar-me/",
+          "target":"_blank",
+          "image": {
+            "alt":"Linkedin Pagarme",
+            "path": "/assets/images/icons/figmaLinkedin.svg",
+            "width": 19,
+            "height": 19
+            
+          }
+        },
+        {
+          "href": "https://twitter.com/pagarmetech",
+          "target":"_blank",
+          "image": {
+            "alt":"Twitter Pagarme",
+            "path": "/assets/images/icons/figmaTwitter.svg",
+            "width": 23,
+            "height": 19
+            
+          }
+        },
+        {
+          "href": "https://www.youtube.com/channel/UCNhSCufrcOMeFvzEM7tt9Lw",
+          "target":"_blank",
+          "image": {
+            "alt":"Youtube Pagarme",
+            "path": "/assets/images/icons/figmaYoutube.svg",
+            "width": 26,
+            "height": 19
+            
+          }
+        }
+      ]
+    },
+    "footerGrid": {
+      "Navegação": [
+        {
+          "href": "/",
+          "linkText":"Home"
+        },
+        {
+          "href": "/",
+          "linkText":"Pronto para usar"
+        },
+        {
+          "href": "/",
+          "linkText":"Integre com nossos produtos"
+        },
+        {
+          "href": "/",
+          "linkText":"Ofertas"
+        },
+        {
+          "href": "/",
+          "linkText":"O Pagar.me"
+        },
+        {
+          "href": "/",
+          "linkText":"Blog"
+        }
+      ],
+      "Suporte": [
+        { 
+          "target":"_blank",
+          "href": "/",
+          "linkText":"FAQ"
+        },
+        {
+          "target":"_blank",
+          "href": "/",
+          "linkText":"Guias de integração"
+        },
+        {
+          "target":"_blank",
+          "href": "/documentacao",
+          "linkText":"Documentação"
+        },
+        {
+          "href": "/",
+          "linkText":"Boleto DDA"
+        }
+      ],
+      "Pagar.me": [
+        {
+          "target":"_blank",
+          "href": "/",
+          "linkText":"Área do cliente"
+        },
+        {
+          "target":"_blank",
+          "href": "/",
+          "linkText":"Veja nossas vagas"
+        },
+        {
+          "target":"_blank",
+          "href": "/",
+          "linkText":"Termos de uso"
+        },
+        {
+          "href": "/",
+          "linkText":"Aviso de cookies"
+        },
+        {
+          "href": "/",
+          "linkText":"Aviso de privacidade"
+        },
+        { "$type": "button",
+          "buttonText":"Preferências de Cookies"
+        },
+        {
+          "target":"_blank",
+          "href": "/",
+          "linkText":"Política institucional de PLD-CFT"
+        },
+        {
+          "target":"_blank",
+          "href": "/",
+          "linkText":"Portal de Privacidade"
+        } 
+      ],
+      "Contato":[
+        {
+          "text": "Já sou cliente: ",
+          "href": "callto:4004-1330",
+          "linkText":"4004-1330"
+        },
+        {
+          "$type":"poopinFont",
+          "href": "/",
+          "linkText":"Quero ser cliente"
+        },
+        { "$type":"address",
+          "text": ["Edifício Birmann 21", "Av. Doutora Ruth Cardoso, 7221", "Pinheiros - São Paulo, SP, Brasil"],
+          "href": ""
+        }
+      ]
+    }
+  },
+  "stoneFooter": {
+    "stoneIcon": {
+      "target":"_blank",
+      "href": "https://www.stone.co/",
+      "image": {
+        "alt":"Stone logo",
+        "path": "/assets/images/figmaStone.svg",
+        "width": 103,
+        "height": 27
+        
+      }
+    },
+    "ulStoneIcons": [
+      {
+        "span_innerText": "Stone",
+        "target":"_blank",
+        "href": "https://www.stone.com.br/",
+        "image": {
+          "alt":"Stone logo",
+          "path": "/assets/images/icons/figmaStone.svg",
+          "width": 30,
+          "height": 30
+          
+        }
+      },
+      {
+        "$type": "selected",
+        "span_innerText": "Pagar.me",
+        "target":"_blank",
+        "href": "https://www.pagar.me/",
+        "image": {
+          "alt":"Pagar.me logo",
+          "path": "/assets/images/icons/figmaPagarme.svg",
+          "width": 30,
+          "height": 30
+          
+        }
+      },
+      {
+        "span_innerText": "Mundipagg",
+        "target":"_blank",
+        "href": "https://www.mundipagg.com/",
+        "image": {
+          "alt":"Mundipagg logo",
+          "path": "/assets/images/icons/figmaMundipagg.svg",
+          "width": 30,
+          "height": 30
+          
+        }
+      },
+      {
+        "$type": "opacityIcon",
+        "span_innerText": "Equals",
+        "target":"_blank",
+        "href": "https://www.equals.com.br/",
+        "image": {
+          "alt":"Equals logo",
+          "path": "/assets/images/icons/figmaEquals.svg",
+          "width": 30,
+          "height": 30
+          
+        }
+      },
+      {
+        "span_innerText": "Cappta",
+        "target":"_blank",
+        "href": "https://www.cappta.com.br/",
+        "image": {
+          "alt":"Cappta logo",
+          "path": "/assets/images/icons/figmaCappta.svg",
+          "width": 30,
+          "height": 30
+          
+        }
+      }
+    ]
+  }
+}
+

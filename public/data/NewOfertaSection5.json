@@ -1,0 +1,33 @@
+{
+    "Section5": {
+        "Title": "Soluções para todas as necessidades e modelos de negócio",
+        "Body": [
+            {
+                "Cards": [
+                    {
+                        "GreenText": "PLANOS E ASSINATURAS",
+                        "CardTitle": "Recorrência",
+                        "CardDescription": "Crie modelos de cobranças recorrentes e planos de assinaturas pré-pagas, pós-pagas e com pagamentos em dias específicos.",
+                        "CardImage": "../assets/images/Section5_ImageLeft.svg",
+                        "Width": 428,
+                        "Height": 242,
+                        "Mobile": {
+                            "MobileImage": "../assets/images/Section5_ImageLeft_Mobile.svg"
+                        }
+                    },
+                    {
+                        "GreenText": "DIVISÃO DE RECEBÍVEIS",
+                        "CardTitle": "Split de Pagamento",
+                        "CardDescription": "A inteligência que o seu marketplace ou app de delivery precisa para dividir e repassar pagamentos entre diferentes recebedores",
+                        "CardImage": "../assets/images/Section5_ImageRight.svg",
+                        "Width": 428,
+                        "Height": 242,
+                        "Mobile": {
+                            "MobileImage": "../assets/images/Section5_ImageRight_Mobile.svg"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
